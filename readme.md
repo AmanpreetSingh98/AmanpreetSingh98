@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/amanpreet-singh-96210916a)]
+[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/amanpreet-singh-96210916a)](www.linkedin.com/in/amanpreet-singh-96210916a)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/16666966/amanpreet-singh?tab=profile)
 
 
