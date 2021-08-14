@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**AmanpreetSingh98/AmanpreetSingh98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Hi Developers 👋
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
