@@ -6,7 +6,7 @@
 
 <img src="https://user-images.githubusercontent.com/88610442/132092015-a42aa14b-c908-4c92-8bd4-a489facbe2b9.png" width="30px"/>  Btech Graduate in Computer Science and Engineering
 
-I have a wide range of skills including Front-end development ( HTML5, CSS3, Javascript, ReactJs, Bootstrap ) Back-end development using open source technologies ( NodeJs, Express.js ) and Database ( MongoDB, Mysql ).
+I have skills including Front-end development ( HTML5, CSS3, Javascript, ReactJs, Bootstrap ) Back-end development ( NodeJs, Express.js ) and Database ( MongoDB, Mysql ).
 
 - 🌱 I’m currently Learning Full Stack Website Development 
 
