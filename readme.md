@@ -8,7 +8,7 @@
 
 I have keen interest in Web Development and i always like to learn new skills, I have skills including Front-end development ( HTML5, CSS3, Javascript, ReactJs, Bootstrap ) Back-end development ( NodeJs, Express.js ) and Database ( MongoDB, Mysql ).
 
-- 🌱 I’m currently Learning Full Stack Website Development 
+- 🌱 Full Stack Web Developer Intern 
 
 <h4 align="center">⚙ Languages and Tools:</h4>
 
