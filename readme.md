@@ -6,7 +6,7 @@
 
 <img src="https://user-images.githubusercontent.com/88610442/132092015-a42aa14b-c908-4c92-8bd4-a489facbe2b9.png" width="30px"/>  Btech Graduate in Computer Science and Engineering
 
-I have keen interest in Web Development and i always like to learn new skills, I have skills including Front-end development ( HTML5, CSS3, Javascript, ReactJs, Bootstrap ) Back-end development ( NodeJs, Express.js ) and Database ( MongoDB, Mysql ).
+I have keen interest in Web Development and i always like to learn new skills, I have skills including Front-end development ( HTML5, CSS3, Javascript, ReactJs, Bootstrap ) Back-end development ( NodeJs, Express.js ) and Database ( MongoDB).
 
 - 🌱 Full Stack Web Developer Intern 
 
@@ -15,7 +15,7 @@ I have keen interest in Web Development and i always like to learn new skills, I
 <h3 align="center">
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-blueviolet"/>  <img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white"/> </h3>
 <p align="center"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat-square&logo=node-dot-js&logoColor=white"/>  <img alt="Express" src="https://img.shields.io/badge/-Express.js-blue"/>
-<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/MySql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white"/>
+<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white"/>
 </p>
 
 
